@@ -6,6 +6,8 @@ type
 var
 	i,reponse,resultat,score,score2:integer;
 	tab:tableau;
+	
+
 begin
 	writeln('Bonjour');
 	randomize;
